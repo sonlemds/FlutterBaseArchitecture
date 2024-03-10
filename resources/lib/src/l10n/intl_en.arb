@@ -1,0 +1,19 @@
+{
+  "appTitle": "App Name",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "saveAccessTokenError": "Can not save access token",
+  "home": "Home",
+  "transactions": "Transactions",
+  "signIn": "Sign In",
+  "signUp": "Sign Up",
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm password",
+  "emailPlaceholder": "Enter your email",
+  "passwordPlaceholder": "Enter your password",
+  "confirmPasswordPlaceholder": "Confirm your password",
+  "forgotYourPassword": "Forgot your password?",
+  "submit": "Submit"
+}

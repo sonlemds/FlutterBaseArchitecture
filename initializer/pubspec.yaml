@@ -1,0 +1,22 @@
+name: initializer
+description: "A new Flutter project."
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  async: ^2.11.0
+  flutter:
+    sdk: flutter
+
+  shared:
+    path: ../shared
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+flutter:

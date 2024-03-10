@@ -1,0 +1,27 @@
+name: shared
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.0.1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  resources:
+    path: ../resources
+  domain:
+    path: ../domain
+  flutter_svg: ^2.0.10+1
+  get_it: ^7.6.7
+  iconsax: ^0.0.8
+  lottie: ^3.1.0
+  rxdart: ^0.27.7
+  tuple: ^2.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
